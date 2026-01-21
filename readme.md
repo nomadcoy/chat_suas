@@ -1,4 +1,4 @@
-# 🤖 ChatSUAS
+# ChatSUAS
 
 ChatSUAS é um chatbot local, desenvolvido em Python, voltado para **Ciências Sociais, Política Social e Sistema Único de Assistência Social (SUAS)**.
 
