@@ -87,8 +87,8 @@ ollama pull phi3:mini
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/nomadcoy/chat-suas.git
-cd chat-suas
+git clone https://github.com/nomadcoy/chat_suas.git
+cd chat_suas
 ```
 
 2. Inicie o Streamlit:
