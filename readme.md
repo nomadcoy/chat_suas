@@ -160,6 +160,6 @@ Licença: MIT (ou outra, a definir).
 ## Autor
 
 **Chico Alves**
-Sociólogo | Analista de Dados | Pesquisador em Política Social
+Sociólogo | Desenvolvedor Python | Analista de Dados | Pesquisador em Política Social
 
 > Este projeto integra um portfólio técnico-crítico sobre tecnologia e políticas públicas no Brasil.
